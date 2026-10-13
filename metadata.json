@@ -1,0 +1,6 @@
+{
+  "name": "Teacher Deployment Equity Mapper",
+  "description": "Interactive educational planning dashboard to analyze subject staffing gaps, optimize teacher allocation, and visualize equity metrics across school districts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
